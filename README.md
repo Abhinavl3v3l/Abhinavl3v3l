@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhinavl3v3l
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Robotics and AI
-- 💞️ I’m looking to collaborate on Data Science + Robotics Project
+- 👀 Inspiring to be a Software Architech and Backend.
+- 🌱 I’m currently learning Backend dev and design
+- 💞️ I’m looking to collaborate on Backend and Product design.
 - 📫 How to reach me rabhinavcs@gmail.com
 
 <!---
